@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "name": "TheMovieDB",
+  "name": "PublicAPIs",
   "type": "collection",
   "ignore": [
     "node_modules",
